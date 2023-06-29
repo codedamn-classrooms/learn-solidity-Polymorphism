@@ -1,0 +1,2 @@
+tabs: ['contracts/Polymorphism.sol']
+terminals: ['yarn install']
